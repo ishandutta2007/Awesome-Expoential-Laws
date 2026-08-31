@@ -1,16 +1,18 @@
 # 📈 Exponential-Laws
 
-![Exponential Laws Banner](banner.svg)
+![Exponential Laws Banner](assets/banner.svg)
 
 <p align="center">
   <img src="growth.svg" width="100" alt="Growth Animation" />
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
   <img src="https://img.shields.io/badge/SEO-Optimized-orange" alt="SEO Optimized" />
   <img src="https://img.shields.io/badge/Contributions-Welcome-blueviolet" alt="Contributions Welcome" />
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
